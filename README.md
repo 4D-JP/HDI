@@ -2,6 +2,7 @@
 
 Localised (Japanese) copies of HDI examples from the official [blog](https://blog.4d.com/).  
 
+[![](https://img.shields.io/github/downloads/4D-JP/HDI/20r7/total?color=E23089)](https://github.com/4D-JP/HDI/releases/tag/20r7)
 [![](https://img.shields.io/github/downloads/4D-JP/HDI/20r6/total?color=E23089)](https://github.com/4D-JP/HDI/releases/tag/20r6)
 [![](https://img.shields.io/github/downloads/4D-JP/HDI/20r5/total?color=E23089)](https://github.com/4D-JP/HDI/releases/tag/20r5)
 [![](https://img.shields.io/github/downloads/4D-JP/HDI/20r4/total?color=E23089)](https://github.com/4D-JP/HDI/releases/tag/20r4)
